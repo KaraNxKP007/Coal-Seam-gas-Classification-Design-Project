@@ -42,10 +42,5 @@ This project was developed under the guidance of Vikky Anand, with support from 
 
 ---
 
-## License
-This project is licensed under MIT License.
-
----
-
 ## Contact
 For further details, please contact Karan Pratap or visit the project repository.
